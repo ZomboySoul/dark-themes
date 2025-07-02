@@ -1,0 +1,23 @@
+{
+  "name": "violet-dark",
+  "displayName": "Violet Dark",
+  "description": "Theme personalizado purpura VS Code.",
+  "version": "0.0.3",
+  "publisher": "ZomboySoul",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "./favicon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Violet Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/violet-dark-theme.json"
+      }
+    ]
+  }
+}
