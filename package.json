@@ -4,6 +4,10 @@
   "description": "Theme personalizado purpura VS Code.",
   "version": "0.0.3",
   "publisher": "ZomboySoul",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZomboySoul/violet-dark-theme"
+  },
   "engines": {
     "vscode": "^1.50.0"
   },
