@@ -21,21 +21,34 @@
         "sideBar.background": "#1a0d2b", // Fondo de la barra lateral (donde está Explorer, Search, Git, etc.)
         "sideBar.foreground": "#d4d4d4", // Color del texto en la barra lateral
         "sideBarSectionHeader.background": "#291247", // Fondo de las secciones (Headers) en la barra lateral
+        "sideBar.border": "#6C3FB2AA", // Color del borde lateral (el que se ve azul por defecto)
+
+        // LISTAS  
+        "list.focusOutline": "#291247", // Contorno de foco cuando hacés clic en un ítem (antes azul)
+        "list.focusBackground": "#291247", // Fondo cuando un ítem tiene el foco (antes azul)
+        "list.activeSelectionBackground": "#6C3FB2", // Fondo de ítem seleccionado con foco
+        "list.inactiveSelectionBackground": "#1a0d2b", // Fondo de ítem seleccionado sin foco
+        "list.activeSelectionForeground": "#ffffff", // Color de texto en ítem seleccionado con foco
+        "list.inactiveSelectionForeground": "#ffffff", // Color de texto en ítem seleccionado sin foco
+
         // BARRA DE ACTIVIDAD (barra vertical a la izquierda con íconos)
         "activityBar.background": "#291247", // Fondo de la barra de actividad
         "activityBar.foreground": "#ffffff", // Color de los íconos activos en la barra de actividad
         "activityBarBadge.background": "#6C3FB2", // Fondo de los badges (numeritos o avisos) en la barra de actividad
         "activityBarBadge.foreground": "#ffffff", // Color del texto de los badges
+
         // TABS DE ARCHIVOS (pestañas de archivos abiertos)
         "tab.activeBackground": "#1a0d2b", // Fondo de la pestaña activa
         "tab.inactiveBackground": "#12091e", // Fondo de las pestañas inactivas
         "tab.activeForeground": "#ffffff", // Color del texto en la pestaña activa
         "tab.inactiveForeground": "#a8a8a8", // Color del texto en las pestañas inactivas
+
         // STATUS BAR (barra inferior)
         "statusBar.background": "#291247", // Fondo de la barra de estado en modo normal
         "statusBar.foreground": "#ffffff", // Color del texto en la barra de estado
         "statusBar.debuggingBackground": "#a14ef5", // Fondo de la barra de estado cuando estás en modo debugging
         "statusBar.debuggingForeground": "#ffffff", // Color del texto de la barra en modo debugging
+
         // TITLE BAR (barra superior de la ventana)
         "titleBar.activeBackground": "#1a0d2b", // Fondo de la barra de título cuando la ventana está activa
         "titleBar.activeForeground": "#ffffff", // Color del texto de la barra de título activa
