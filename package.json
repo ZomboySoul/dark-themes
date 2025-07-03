@@ -2,7 +2,7 @@
   "name": "violet-dark",
   "displayName": "Violet Dark",
   "description": "Theme personalizado purpura VS Code.",
-  "version": "0.0.3",
+  "version": "0.0.7",
   "publisher": "ZomboySoul",
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
       {
         "label": "Violet Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/violet-dark-theme.jsonc"
+        "path": "./themes/violet-dark-theme.json"
       }
     ]
   }
