@@ -37,7 +37,8 @@ Perfecto para quienes buscan una atmósfera oscura elegante con detalles vibrant
 ## 🖥️ Vista Previa
 
 Sumergite en esta atmósfera oscura:
-
+![preview_theme](preview2.png)
+![preview_theme](preview.png)
 ## 📦 Instalación
 
 Si descargaste el archivo VSIX manualmente:
