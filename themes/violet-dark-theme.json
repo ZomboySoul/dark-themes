@@ -1,7 +1,7 @@
 {
     "name": "My Purple Dark Theme",
     "type": "dark",
-        "colors": {
+    "colors": {
         // EDITOR (área donde escribís código)
         "editor.background": "#000000", // Color de fondo del editor de código
         "editor.foreground": "#d4d4d4", // Color del texto principal en el editor
@@ -21,30 +21,29 @@
         "sideBar.background": "#1a0d2b", // Fondo de la barra lateral (donde está Explorer, Search, Git, etc.)
         "sideBar.foreground": "#d4d4d4", // Color del texto en la barra lateral
         "sideBarSectionHeader.background": "#291247", // Fondo de las secciones (Headers) en la barra lateral
-
         // BARRA DE ACTIVIDAD (barra vertical a la izquierda con íconos)
         "activityBar.background": "#291247", // Fondo de la barra de actividad
         "activityBar.foreground": "#ffffff", // Color de los íconos activos en la barra de actividad
         "activityBarBadge.background": "#6C3FB2", // Fondo de los badges (numeritos o avisos) en la barra de actividad
         "activityBarBadge.foreground": "#ffffff", // Color del texto de los badges
-
         // TABS DE ARCHIVOS (pestañas de archivos abiertos)
         "tab.activeBackground": "#1a0d2b", // Fondo de la pestaña activa
         "tab.inactiveBackground": "#12091e", // Fondo de las pestañas inactivas
         "tab.activeForeground": "#ffffff", // Color del texto en la pestaña activa
         "tab.inactiveForeground": "#a8a8a8", // Color del texto en las pestañas inactivas
-
         // STATUS BAR (barra inferior)
         "statusBar.background": "#291247", // Fondo de la barra de estado en modo normal
         "statusBar.foreground": "#ffffff", // Color del texto en la barra de estado
         "statusBar.debuggingBackground": "#a14ef5", // Fondo de la barra de estado cuando estás en modo debugging
         "statusBar.debuggingForeground": "#ffffff", // Color del texto de la barra en modo debugging
-
         // TITLE BAR (barra superior de la ventana)
         "titleBar.activeBackground": "#1a0d2b", // Fondo de la barra de título cuando la ventana está activa
         "titleBar.activeForeground": "#ffffff", // Color del texto de la barra de título activa
         "titleBar.inactiveBackground": "#12091e", // Fondo de la barra de título cuando está inactiva
         "titleBar.inactiveForeground": "#a8a8a8" // Color del texto de la barra de título inactiva
+        ,
+        "editorGroupHeader.tabsBackground": "#1a0d2b",
+        "tab.border": "#a14ef5"
     },
     "tokenColors": [
         {
