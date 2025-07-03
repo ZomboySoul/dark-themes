@@ -37,8 +37,8 @@ Perfect for those seeking a sleek dark atmosphere with vibrant purple tones and 
 ## 🖥️ Preview
 
 Immerse yourself in this dark, neon-lit atmosphere:
-![preview_theme](preview2.png)
-![preview_theme](preview.png)
+![preview_theme](assets/preview2.png)
+![preview_theme](assets/preview.png)
 
 ## 📦 Installation
 

@@ -14,7 +14,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "favicon2.png",
+  "icon": "assets/favicon2.png",
   "contributes": {
     "themes": [
       {
