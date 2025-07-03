@@ -20,7 +20,7 @@
       {
         "label": "Violet Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/violet-dark-theme.json"
+        "path": "./themes/violet-dark-theme.jsonc"
       }
     ]
   }
