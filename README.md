@@ -1,20 +1,20 @@
 # 🌌 Violet Dark Theme
 
-Un theme futurista y minimalista para Visual Studio Code, inspirado en las luces de neón, los paisajes cyberpunk y la programación nocturna.
-Perfecto para quienes buscan una atmósfera oscura elegante con detalles vibrantes en tonos púrpuras, violetas y acentos neón.
+A futuristic and minimalistic theme for Visual Studio Code, inspired by neon lights, cyberpunk landscapes, and late-night coding sessions.  
+Perfect for those seeking a sleek dark atmosphere with vibrant purple tones and neon accents.
 
 ---
 
-## ✨ Características
+## ✨ Features
 
-🎨 Paleta cromática moderna y relajante:
+🎨 Modern, eye-friendly color palette:
 
-- 🖤 Tonos oscuros profundos que reducen la fatiga visual.
-- 💜 Paleta de colores con acentos en violetas, púrpuras y magentas.
-- ✨ Contrastes suaves y elegantes para facilitar la lectura.
-- 🌃 Inspirado en entornos nocturnos de estilo futurista
+- 🖤 Deep dark tones to reduce eye strain.
+- 💜 Accent colors in purples, violets, and magentas.
+- ✨ Soft and elegant contrasts for improved readability.
+- 🌃 Inspired by futuristic, night-time environments.
 
-📝 Soporte de sintaxis mejorado para:
+📝 Enhanced syntax highlighting for:
 
 - **JSON**
 - **CSS**
@@ -22,39 +22,44 @@ Perfecto para quienes buscan una atmósfera oscura elegante con detalles vibrant
 - **Python**
 - **JavaScript**
 - **TypeScript**
-- **y más...**
+- **and more...**
 
-🔍 Resaltado optimizado de:
+🔍 Optimized highlighting for:
 
-- 🛠️ Nombres de funciones, variables y métodos.
-- 💬 Cadenas de texto diferenciadas.
-- 📑 Claves y valores en JSON.
-- 💭 Comentarios estilizados con tono distintivo.
-- 🔢 Números y palabras clave resaltadas.
+- 🛠️ Function, variable, and method names.
+- 💬 Differentiated string colors.
+- 📑 Keys and values in JSON files.
+- 💭 Stylishly distinct comments.
+- 🔢 Numbers and keywords.
 
 ---
 
-## 🖥️ Vista Previa
+## 🖥️ Preview
 
-Sumergite en esta atmósfera oscura:
+Immerse yourself in this dark, neon-lit atmosphere:
 ![preview_theme](preview2.png)
 ![preview_theme](preview.png)
-## 📦 Instalación
 
-Si descargaste el archivo VSIX manualmente:
+## 📦 Installation
+
+If you downloaded the VSIX file manually:
 
 ```bash
 code --install-extension violet-dark-theme.vsix
 ```
 
-## 📌 Recomendaciones
+## 📦 Download
 
-Para una experiencia completa:
+You can download the latest VSIX package from the [GitHub Repository](https://github.com/ZomboySoul/violet-dark-theme).
 
-- Activá ligera opacidad o vibrancy effect si tu sistema operativo lo permite.
-- Combiná con una tipografía futurista como `Fira Code`, `JetBrains Mono` o `Cascadia Code`.
-- Usalo en entornos oscuros para realzar los acentos neón.
+## 📌 Recommendations
 
-## 📖 Licencia
+For the best experience:
 
-Este proyecto está licenciado bajo la licencia [MIT](https://opensource.org/licenses/MIT).
+- Enable slight opacity or vibrancy effects if your operating system supports it.
+- Combine it with a futuristic font like `Fira Code`, `JetBrains Mono` or `Cascadia Code`.
+- Use it in dark environments to enhance the neon accents.
+
+## 📖 License
+
+This project is licensed under the [MIT_License](https://opensource.org/licenses/MIT).
