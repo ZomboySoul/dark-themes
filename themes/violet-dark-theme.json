@@ -2,61 +2,54 @@
     "name": "My Purple Dark Theme",
     "type": "dark",
     "colors": {
-        // EDITOR (área donde escribís código)
-        "editor.background": "#000000", // Color de fondo del editor de código
-        "editor.foreground": "#d4d4d4", // Color del texto principal en el editor
-        "editorCursor.foreground": "#ffffff", // Color del cursor (barra que parpadea)
-        "editor.lineHighlightBackground": "#2a2a2a", // Fondo de la línea donde está el cursor
-        "editorLineNumber.foreground": "#858585", // Color de los números de línea (inactivos)
-        "editorLineNumber.activeForeground": "#ffffff", // Color del número de línea actual (activa)
-        "editor.selectionBackground": "#6C3FB2AA", // Color de fondo de texto seleccionado
-        "editor.inactiveSelectionBackground": "#5A2F9D66", // Fondo de selección en editor inactivo (cuando otra pestaña está activa)
-        "editorIndentGuide.background1": "#3a3a3a", // Color de las guías de indentación (líneas punteadas verticales)
-        "editorIndentGuide.activeBackground1": "#6C3FB2", // Color de la guía de indentación activa
-        "editorWhitespace.foreground": "#3a3a3a", // Color de los caracteres de espacio en blanco visibles (si los tenés activados)
-        "editorBracketMatch.border": "#FFD700", // Color del borde cuando hacés match de un bracket ({}, [], ())
-        "editorBracketMatch.background": "#6C3FB2", // Color de fondo cuando hacés match de un bracket
-
-        // BARRA LATERAL Y UI (interfaz general de VS Code)
-        "sideBar.background": "#1a0d2b", // Fondo de la barra lateral (donde está Explorer, Search, Git, etc.)
-        "sideBar.foreground": "#d4d4d4", // Color del texto en la barra lateral
-        "sideBarSectionHeader.background": "#291247", // Fondo de las secciones (Headers) en la barra lateral
-        "sideBar.border": "#6C3FB2AA", // Color del borde lateral (el que se ve azul por defecto)
-
-        // LISTAS  
-        "list.focusOutline": "#291247", // Contorno de foco cuando hacés clic en un ítem (antes azul)
-        "list.focusBackground": "#291247", // Fondo cuando un ítem tiene el foco (antes azul)
-        "list.activeSelectionBackground": "#6C3FB2", // Fondo de ítem seleccionado con foco
-        "list.inactiveSelectionBackground": "#1a0d2b", // Fondo de ítem seleccionado sin foco
-        "list.activeSelectionForeground": "#ffffff", // Color de texto en ítem seleccionado con foco
-        "list.inactiveSelectionForeground": "#ffffff", // Color de texto en ítem seleccionado sin foco
-
-        // BARRA DE ACTIVIDAD (barra vertical a la izquierda con íconos)
-        "activityBar.background": "#291247", // Fondo de la barra de actividad
-        "activityBar.foreground": "#ffffff", // Color de los íconos activos en la barra de actividad
-        "activityBarBadge.background": "#6C3FB2", // Fondo de los badges (numeritos o avisos) en la barra de actividad
-        "activityBarBadge.foreground": "#ffffff", // Color del texto de los badges
-
-        // TABS DE ARCHIVOS (pestañas de archivos abiertos)
-        "tab.activeBackground": "#1a0d2b", // Fondo de la pestaña activa
-        "tab.inactiveBackground": "#12091e", // Fondo de las pestañas inactivas
-        "tab.activeForeground": "#ffffff", // Color del texto en la pestaña activa
-        "tab.inactiveForeground": "#a8a8a8", // Color del texto en las pestañas inactivas
-
-        // STATUS BAR (barra inferior)
-        "statusBar.background": "#291247", // Fondo de la barra de estado en modo normal
-        "statusBar.foreground": "#ffffff", // Color del texto en la barra de estado
-        "statusBar.debuggingBackground": "#a14ef5", // Fondo de la barra de estado cuando estás en modo debugging
-        "statusBar.debuggingForeground": "#ffffff", // Color del texto de la barra en modo debugging
-
-        // TITLE BAR (barra superior de la ventana)
-        "titleBar.activeBackground": "#1a0d2b", // Fondo de la barra de título cuando la ventana está activa
-        "titleBar.activeForeground": "#ffffff", // Color del texto de la barra de título activa
-        "titleBar.inactiveBackground": "#12091e", // Fondo de la barra de título cuando está inactiva
-        "titleBar.inactiveForeground": "#a8a8a8" // Color del texto de la barra de título inactiva
-        ,
+        "editor.background": "#000000",
+        "editor.foreground": "#d4d4d4",
+        "editorCursor.foreground": "#ffffff",
+        "editor.lineHighlightBackground": "#2a2a2a",
+        "editorLineNumber.foreground": "#858585", 
+        "editorLineNumber.activeForeground": "#ffffff",
+        "editor.selectionBackground": "#6C3FB2AA", 
+        "editor.inactiveSelectionBackground": "#5A2F9D66",
+        "editorIndentGuide.background1": "#3a3a3a", 
+        "editorIndentGuide.activeBackground1": "#6C3FB2", 
+        "editorWhitespace.foreground": "#3a3a3a", 
+        "editorBracketMatch.border": "#FFD700", 
+        "editorBracketMatch.background": "#6C3FB2",
         "editorGroupHeader.tabsBackground": "#1a0d2b",
-        "tab.border": "#a14ef5"
+
+        "sideBar.background": "#1a0d2b",
+        "sideBar.foreground": "#d4d4d4", 
+        "sideBarSectionHeader.background": "#291247",
+        "sideBar.border": "#6C3FB2AA",
+
+        "list.focusOutline": "#291247", 
+        "list.focusBackground": "#291247",
+        "list.activeSelectionBackground": "#6C3FB2",
+        "list.inactiveSelectionBackground": "#1a0d2b",
+        "list.activeSelectionForeground": "#ffffff", 
+        "list.inactiveSelectionForeground": "#ffffff",
+
+        "activityBar.background": "#291247",
+        "activityBar.foreground": "#ffffff",
+        "activityBarBadge.background": "#6C3FB2",
+        "activityBarBadge.foreground": "#ffffff",
+
+        "tab.activeBackground": "#1a0d2b",
+        "tab.inactiveBackground": "#12091e",
+        "tab.activeForeground": "#ffffff",
+        "tab.inactiveForeground": "#a8a8a8",
+        "tab.border": "#a14ef5",
+
+        "statusBar.background": "#291247",
+        "statusBar.foreground": "#ffffff",
+        "statusBar.debuggingBackground": "#a14ef5", 
+        "statusBar.debuggingForeground": "#ffffff",
+
+        "titleBar.activeBackground": "#1a0d2b",
+        "titleBar.activeForeground": "#ffffff",
+        "titleBar.inactiveBackground": "#12091e", 
+        "titleBar.inactiveForeground": "#a8a8a8"
+        
     },
     "tokenColors": [
         {
@@ -227,7 +220,6 @@
                 "foreground": "#ffffff"
             }
         },
-        //json
         {
             "scope": "support.type.property-name.json",
             "settings": {
