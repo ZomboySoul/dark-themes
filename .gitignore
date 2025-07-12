@@ -1,2 +1,5 @@
 edit_theme_setting.txt
 *.vsix
+themes/colors
+themes/tokenColors
+merge-colors.js
