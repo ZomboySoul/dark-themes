@@ -117,25 +117,9 @@
       }
     },
     {
-      "scope": "constant.numeric.json",
-      "settings": {
-        "foreground": "#C4F6A7"
-      }
-    },
-    {
       "scope": "constant.language.json",
       "settings": {
         "foreground": "#F47777"
-      }
-    },
-    {
-      "scope": [
-        "punctuation.separator.dictionary.json",
-        "punctuation.definition.dictionary.begin.json",
-        "punctuation.definition.dictionary.end.json"
-      ],
-      "settings": {
-        "foreground": "#d4d4d4"
       }
     },
     {
