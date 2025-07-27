@@ -1,65 +1,80 @@
-# 🌌 Violet Dark Theme
+# 🖌️ Dark Themes – Dark Collection
 
-A futuristic and minimalistic theme for Visual Studio Code, inspired by neon lights, cyberpunk landscapes, and late-night coding sessions.  
-Perfect for those seeking a sleek dark atmosphere with vibrant purple tones and neon accents.
+A sleek, minimalistic collection of custom Visual Studio Code themes by **ZomboySoul**, inspired by neon lights, cyberpunk aesthetics, and deep night-time color palettes.
+
+> Includes **Violet Dark** and **Orange Dark** variants, with more on the way.
 
 ---
 
-## ✨ Features
+## ✨ Included Themes
 
-🎨 Modern, eye-friendly color palette:
+### 🌌 Violet Dark
+A futuristic dark theme with vibrant purples, violets, and neon magentas.  
+Ideal for night-time coding with a soft cyberpunk glow.
 
-- 🖤 Deep dark tones to reduce eye strain.
-- 💜 Accent colors in purples, violets, and magentas.
-- ✨ Soft and elegant contrasts for improved readability.
-- 🌃 Inspired by futuristic, night-time environments.
+### 🔥 Orange Dark
+A warm and energetic dark theme with bright oranges, golds, and burnt amber tones.  
+Perfect for focused, high-contrast workflows.
 
-📝 Enhanced syntax highlighting for:
+---
 
-- **JSON**
-- **CSS**
-- **HTML**
+## 🎨 Features
+
+- ✅ Deep, eye-friendly backgrounds for reduced eye strain.
+- 🎯 Precise syntax highlighting for clarity across many languages.
+- ✍️ Elegant contrasts for readability and accessibility.
+- 💡 Carefully tuned colors for:
+  - Functions, methods, variables.
+  - Strings, numbers, and keywords.
+  - JSON keys/values.
+  - Comments and markup.
+
+Supported languages:
+- **JavaScript / TypeScript**
 - **Python**
-- **JavaScript**
-- **TypeScript**
-- **and more...**
-
-🔍 Optimized highlighting for:
-
-- 🛠️ Function, variable, and method names.
-- 💬 Differentiated string colors.
-- 📑 Keys and values in JSON files.
-- 💭 Stylishly distinct comments.
-- 🔢 Numbers and keywords.
+- **HTML / CSS / SCSS**
+- **JSON**
+- **Markdown**
+- ...and more
 
 ---
 
-## 🖥️ Preview
+## 🖼️ Previews
 
-Immerse yourself in this dark, neon-lit atmosphere:
-![preview_theme](assets/preview2.png)
-![preview_theme](assets/preview.png)
+### Violet Dark
+![violet-dark-preview](assets/preview2.png)
+
+### Orange Dark
+![orange-dark-preview](assets/orange-dark.png)
+---
 
 ## 📦 Installation
 
-If you downloaded the VSIX file manually:
+If installing manually:
 
 ```bash
-code --install-extension violet-dark-theme.vsix
+code --install-extension dark-themes.vsix
 ```
 
-## 📦 Download
+Or search `dark Themes` in the **Extensions Marketplace**.
 
-You can download the latest VSIX package from the [GitHub Repository](https://github.com/ZomboySoul/violet-dark-theme).
+---
 
-## 📌 Recommendations
+## 🧠 Tips for Best Experience
 
-For the best experience:
+- Pair with fonts like `Fira Code`, `JetBrains Mono`, or `Cascadia Code`.
+- Use in low-light environments to enjoy subtle glows.
+- Customize with transparent window effects if your OS supports it.
 
-- Enable slight opacity or vibrancy effects if your operating system supports it.
-- Combine it with a futuristic font like `Fira Code`, `JetBrains Mono` or `Cascadia Code`.
-- Use it in dark environments to enhance the neon accents.
+---
+
+## 🗂 Repository
+
+Explore the source and contribute here:  
+🔗 [https://github.com/ZomboySoul/dark-themes](https://github.com/ZomboySoul/dark-themes)
+
+---
 
 ## 📖 License
 
-This project is licensed under the [MIT_License](https://opensource.org/licenses/MIT).
+Licensed under the [MIT License](https://opensource.org/licenses/MIT).
