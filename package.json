@@ -1,8 +1,8 @@
 {
-  "name": "violet-dark",
-  "displayName": "Violet Dark",
-  "description": "Custom purple-themed Visual Studio Code theme with sleek, modern design and vibrant neon accents.",
-  "version": "0.1.0",
+  "name": "dark-themes",
+  "displayName": "Dark Themes",
+  "description": "A sleek collection of custom Visual Studio Code themes, including Violet Dark, Orange Dark and more by ZomboySoul.",
+  "version": "0.2.0",
   "publisher": "ZomboySoul",
   "repository": {
     "type": "git",
@@ -21,6 +21,11 @@
         "label": "Violet Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/violet-dark-theme.json"
+      },
+      {
+        "label": "Orange Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/orange-dark-theme.json"
       }
     ]
   }
